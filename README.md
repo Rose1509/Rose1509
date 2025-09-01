@@ -78,8 +78,8 @@ I'm passionate about coding, innovation, and making technology fun and accessibl
 
 - 🎨 Creative coder—sketching, designing, and making things beautiful
 - ☕ Fueled by coffee and curiosity
-- 🧩 Enjoy solving puzzles & tackling algorithm challenges
-- 🚴‍♀️ Cycling and nature walks recharge my mind
+- 🧩 Enjoy solving puzzles & reading novels
+- 🚴‍♀️ Cycling and nature walks recharge my min
 - 😸 Cat lover and meme enthusiast
 
 ![Cat Coding GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)

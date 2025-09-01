@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rose1509
+# Hi there 👋, I'm Rose
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and collaborating on exciting projects.
 

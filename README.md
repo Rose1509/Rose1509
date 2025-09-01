@@ -3,6 +3,10 @@
 I am an aspiring AI engineer who wishes to solve real-world problems by means of data.
 
 ---
+p align="center">
+  <img src="assets/hello_world.gif" alt="HELLO WORLD" width="400"/>
+</p>
+
 
 
 <p align="center">

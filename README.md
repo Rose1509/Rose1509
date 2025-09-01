@@ -1,13 +1,12 @@
+<p align="center">
+  <img src="assets/hello_world.gif" alt="HELLO WORLD GIF" width="400"/>
+</p>
+
 #  Hi there 👋 This is Rose Khatiwada
 
 I am an aspiring AI engineer who wishes to solve real-world problems by means of data.
 
 ---
-p align="center">
-  <img src="assets/hello_world.gif" alt="HELLO WORLD" width="400"/>
-</p>
-
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rose-kc-0622ba315/">
@@ -23,8 +22,6 @@ p align="center">
 </p>
 
 ---
-
-
 
 ## 🚀 About Me
 
@@ -66,7 +63,6 @@ p align="center">
 
 ---
 
-
 ### 🚩 Featured Projects
 
 | Project                   | Description                                           | Tech Stack                      | Link                                                                |
@@ -106,10 +102,11 @@ p align="center">
 - 🚴‍♀️ Cycling & nature walks recharge my mind
 - 😸 Dog lover & meme enthusiast
 
-![Cat Coding GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding GIF" width="350"/>
+</p>
 
 ---
-
 
 ## ✨ My Pledge
 

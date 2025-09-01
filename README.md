@@ -1,4 +1,45 @@
-# 🇳🇵 Hi there 👋 This is Suman Dhakal
+from PIL import Image, ImageDraw, ImageFont
+import os
+
+# Settings
+width, height = 320, 100
+frames = []
+font_path = None
+
+# Try to load a default TTF font (fallback to load_default)
+try:
+    font_path = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"  # Common on Linux
+    font = ImageFont.truetype(font_path, 36)
+except Exception:
+    font = ImageFont.load_default()
+
+# Create frames with animated text reveal
+text = "Hello World!"
+for i in range(1, len(text) + 1):
+    img = Image.new("RGB", (width, height), color="white")
+    draw = ImageDraw.Draw(img)
+    display_text = text[:i]
+    w, h = draw.textsize(display_text, font=font)
+    draw.text(((width - w) // 2, (height - h) // 2), display_text, font=font, fill="black")
+    frames.append(img)
+
+# Save as GIF
+os.makedirs("assets", exist_ok=True)
+gif_path = "assets/hello_world.gif"
+frames[0].save(
+    gif_path,
+    save_all=True,
+    append_images=frames[1:],
+    duration=180,
+    loop=0
+)
+print(f"Saved GIF to {gif_path}")
+
+## 👀 Visitors
+
+![Profile visitors](https://komarev.com/ghpvc/?username=Rose1509&label=Profile%20visitors&color=0e75b6&style=flat)
+
+#  Hi there 👋 This is Rose Khatiwada
 
 I am an aspiring AI engineer who wishes to solve real-world problems by means of data.
 
@@ -88,11 +129,6 @@ I am an aspiring AI engineer who wishes to solve real-world problems by means of
 
 ---
 
-## 👀 Visitors
-
-![Profile visitors](https://komarev.com/ghpvc/?username=Rose1509&label=Profile%20visitors&color=0e75b6&style=flat)
-
----
 
 ## ✨ My Pledge
 

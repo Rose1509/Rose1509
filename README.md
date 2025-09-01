@@ -1,3 +1,9 @@
+#  Hi there 👋 This is Rose Khatiwada
+
+I am an aspiring AI engineer who wishes to solve real-world problems by means of data.
+
+---
+
 <p align="center">
   <img src="assets/hello_world.gif" alt="HELLO WORLD" width="390"/>
 </p>
@@ -17,15 +23,7 @@
 
 ---
 
-## 👀 Visitors
 
-![Profile visitors](https://komarev.com/ghpvc/?username=Rose1509&label=Profile%20visitors&color=0e75b6&style=flat)
-
-#  Hi there 👋 This is Rose Khatiwada
-
-I am an aspiring AI engineer who wishes to solve real-world problems by means of data.
-
----
 
 ## 🚀 About Me
 

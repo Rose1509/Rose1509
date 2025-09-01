@@ -1,58 +1,71 @@
+![Welcome Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 # Hi there 👋, I'm Rose!
 
-Welcome to my GitHub profile! I’m a passionate developer with a love for learning, sharing, and collaborating on cool tech projects.
+Welcome to my creative corner on GitHub!  
+I'm passionate about coding, innovation, and making technology fun and accessible for everyone.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Software developer, tech explorer, and lifelong learner.
-- 🤖 Fascinated by Machine Learning, AI, Data Science, and building impactful web applications.
-- 🌱 Always leveling up: currently diving into FastAPI, ML workflows, and sharpening my Python & Java skills.
-- ✨ Creativity meets logic—whether it’s designing in Figma or solving real-world problems with code.
-- 🤝 Open to collaboration, pair coding, and contributing to open-source.
+- 💻 Software developer | Tech explorer | Lifelong learner
+- 🤖 Obsessed with AI, Data Science, and beautiful web apps
+- 🌱 Currently diving into FastAPI, ML workflows, and advanced Python & Java
+- 🎨 I mix code with creativity—designing in Figma, sketching, and building projects with flair!
+- 🤝 Always open to new connections, collaborations, and open-source adventures
+
+![Coding GIF](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
 
 ---
 
 ## 🧰 My Tech Toolbox
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-darkorange?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
-## 🌱 Growing Every Day
+## 🌱 Currently Growing
 
-- 🐍 Mastering Python for ML, automation & more
-- 🚀 FastAPI for blazing-fast backend apps
-- 📊 Building robust Machine Learning pipelines
-- 🗃️ Database wrangling with MySQL
-- 📚 Constantly exploring new frameworks and libraries
+- 🐍 Python for ML, automation, and more
+- ⚡ FastAPI for speedy backend apps
+- 📊 Machine Learning pipelines
+- 🗃️ Data wrangling with MySQL
+- 💡 Exploring new frameworks & libraries
 
 ---
 
 ## 📂 Featured Projects
 
-- **Drug Side Effects Analysis**  
-  *Machine Learning pipeline for analyzing drug side effects*  
-  [🔗 View on GitHub](https://github.com/Rose1509/Drug_Labels_and_SideEffects)
+| Project Name              | Description                                               | Link   |
+|---------------------------|----------------------------------------------------------|--------|
+| **Drug Side Effects Analysis** | ML pipeline for drug side effects analysis                | [🔗 GitHub](https://github.com/Rose1509/Drug_Labels_and_SideEffects) |
+| **Oh-Lana's Wears**           | Full-stack e-commerce web app (Java & JSP)                | [🔗 GitHub](https://github.com/Rose1509/Oh-Lanas-Wears)              |
 
-- **Oh-Lana's Wears**  
-  *Full-stack e-commerce web app built with Java & JSP*  
-  [🔗 View on GitHub](https://github.com/Rose1509/Oh-Lanas-Wears)
+![Project Showcase GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
 
 ## 🏆 GitHub Stats
 
+<div align="center">
+
 ![Rose1509's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rose1509&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rose1509&layout=compact&theme=radical)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Rose1509&theme=radical)
+
+</div>
 
 ---
 
@@ -65,15 +78,19 @@ Welcome to my GitHub profile! I’m a passionate developer with a love for learn
 
 ---
 
-## 📌 Fun Facts
+## 🎉 Fun Facts & Quirks
 
-- 🎨 I sketch and design when I’m not coding—creativity fuels my logic!
-- ☕ Big fan of coffee-fueled coding sprints.
-- 🧩 Love tackling algorithm challenges and brain teasers.
-- 🚴‍♀️ Cycling & nature walks recharge my mind.
+- 🎨 Creative coder—sketching, designing, and making things beautiful
+- ☕ Fueled by coffee and curiosity
+- 🧩 Enjoy solving puzzles & tackling algorithm challenges
+- 🚴‍♀️ Cycling and nature walks recharge my mind
+- 😸 Cat lover and meme enthusiast
+
+![Cat Coding GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
 
-Thank you for visiting!  
-Feel free to check out my repositories, star projects, or reach out for collaboration.  
-Let’s build something amazing together! 🤗
+Thanks for stopping by!  
+Explore my repos, star a project, or drop a message—let’s build something awesome together! 🚀✨
+
+![Thank You GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)

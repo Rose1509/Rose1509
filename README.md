@@ -19,7 +19,9 @@
 
 #  Hi there 👋 This is Rose Khatiwada
 
-I am an aspiring AI engineer who wishes to solve real-world problems by means of data.
+I am an aspiring AI engineer who wishes to solve real-world problems by means of data. I have a strong foundation in software development, with hands-on experience in Java, Python, and SQL. I am passionate about leveraging technology to solve real-world problems and continuously expanding my skills in AI and Machine Learning.✨
+
+
 
 
 ---

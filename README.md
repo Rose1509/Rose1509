@@ -5,12 +5,12 @@ Welcome to my creative hub on GitHub — where technology meets art, curiosity s
 
 ## 🚀 About Me
 
-- 💻 **Software Engineer | AI Explorer | Design Enthusiast**
-- 🤖 Specializing in **AI, Data Science, and Full-Stack Web Apps**
-- 🌱 Currently mastering **FastAPI**, **Machine Learning workflows**, and advanced **Python** & **Java**
+- 💻 **Software Engineering Intern | AI Explorer | Design Enthusiast**
+- 🤖 Passionate about **AI**, **Data Science**, and Full-Stack Web Apps
+- 🌱 Currently learning **FastAPI**, **Machine Learning workflows**, and advanced **Python** & **Java**
 - 🎨 I blend code with creativity: Figma designs, digital sketches, and interactive projects
 - 🌍 Advocate for inclusive tech and open-source collaboration
-- 🤝 Open to networking, mentoring, and building impactful solutions
+- 🤝 Open to networking, learning, and building impactful solutions
 
 ---
 
@@ -20,7 +20,6 @@ Welcome to my creative hub on GitHub — where technology meets art, curiosity s
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white"/>
@@ -43,7 +42,7 @@ Welcome to my creative hub on GitHub — where technology meets art, curiosity s
 - ⚡ FastAPI & Flask for robust, scalable backends
 - 📊 Machine Learning pipelines with scikit-learn, TensorFlow, PyTorch
 - 🗃️ Data wrangling: MySQL, Pandas, SQLAlchemy
-- 📈 Interactive dashboards: Streamlit, Plotly, PowerBI
+- 📈 Interactive dashboards: Streamlit, Plotly
 - 💡 Exploring new frameworks: Next.js, HuggingFace, LangChain, D3.js
 
 ---
@@ -69,7 +68,6 @@ Welcome to my creative hub on GitHub — where technology meets art, curiosity s
     <td>Java, JSP, MySQL, HTML/CSS</td>
     <td><a href="https://github.com/Rose1509/Oh-Lanas-Wears">🔗 GitHub</a></td>
   </tr>
-
 </table>
 
 <p align="center">
@@ -88,19 +86,15 @@ Welcome to my creative hub on GitHub — where technology meets art, curiosity s
 
 ---
 
-## 🧑‍💻 Community & Impact
+## 👩‍💻 Community & Impact
 
-- 📝 **Blog:** [RoseCodes](https://medium.com/@rosekc) | Tutorials & tech musings
-- 🗣️ **Speaker:** Tech meetups & webinars on ML, Python, and career growth
+- 🗣️ **Speaker:** Tech meetups & webinars (ML, Python, career growth)
 - 🏅 **Mentor:** Helping beginners launch their tech journeys
 - ✨ **Open-source:** Contributor to AI, web, and data projects
 
 ---
 
 ## 💬 Connect with Me
-
-- 📧 [kcr3307@gmail.com](mailto:kcr3307@gmail.com)
-- 💼 [LinkedIn: Rose KC](https://www.linkedin.com/in/rose-kc-0622ba315/)
 
 <p align="center">
   <a href="mailto:kcr3307@gmail.com"><img src="https://img.shields.io/badge/Email-kcr3307@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -134,7 +128,7 @@ Welcome to my creative hub on GitHub — where technology meets art, curiosity s
 ## ✨ My Pledge
 
 > *I strive to build technology that empowers, inspires, and welcomes everyone.*  
-> *Let's connect, create, and innovate together!*
+> *Let's connect, learn, and innovate together!*
 
 ---
 

@@ -1,4 +1,3 @@
-![Welcome Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 # Hi there 👋, I'm Rose!
 
@@ -67,16 +66,15 @@ I'm passionate about coding, innovation, and making technology fun and accessibl
 
 </div>
 
----
+
 
 ## 💬 Let’s Connect!
 
 - 📧 **Email:** kcr3307@gmail.com
 - 💼 **LinkedIn:** [Rose KC](https://www.linkedin.com/in/rose-kc-0622ba315/)
-- 🐦 **Twitter:** [@rose_kc_dev](#) <!-- Add your Twitter if you have one -->
-- 🌍 **Portfolio:** [Coming Soon!](#)
 
----
+
+
 
 ## 🎉 Fun Facts & Quirks
 
@@ -88,7 +86,7 @@ I'm passionate about coding, innovation, and making technology fun and accessibl
 
 ![Cat Coding GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
----
+
 
 Thanks for stopping by!  
 Explore my repos, star a project, or drop a message—let’s build something awesome together! 🚀✨

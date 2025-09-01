@@ -1,17 +1,16 @@
-# Hi there 👋, I'm Rose!
-
-Welcome to my creative corner on GitHub!  
-I'm passionate about coding, innovation, and making technology fun and accessible for everyone.
+# 👋 Hi, I'm Rose!  
+Welcome to my creative hub on GitHub — where technology meets art, curiosity sparks innovation, and collaboration fuels growth.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 **Software Developer** | Tech Explorer | Lifelong Learner
-- 🤖 Deeply passionate about **AI**, **Data Science**, and visually appealing web apps
-- 🌱 Currently immersed in **FastAPI**, **ML workflows**, advanced **Python** & **Java**
-- 🎨 I blend code and creativity—designing in Figma, sketching, and building projects with flair!
-- 🤝 Open to new connections, collaborations, and open-source adventures
+- 💻 **Software Engineer | AI Explorer | Design Enthusiast**
+- 🤖 Specializing in **AI, Data Science, and Full-Stack Web Apps**
+- 🌱 Currently mastering **FastAPI**, **Machine Learning workflows**, and advanced **Python** & **Java**
+- 🎨 I blend code with creativity: Figma designs, digital sketches, and interactive projects
+- 🌍 Advocate for inclusive tech and open-source collaboration
+- 🤝 Open to networking, mentoring, and building impactful solutions
 
 ---
 
@@ -21,36 +20,57 @@ I'm passionate about coding, innovation, and making technology fun and accessibl
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-darkorange?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-teal?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
 
-## 🌱 Currently Growing
+## 🌱 Growth & Learning
 
-- 🐍 Advanced Python for ML, automation, and system design
-- ⚡ FastAPI for high-performance backend services
-- 📊 Machine Learning pipelines for real-world applications
-- 🗃️ Data wrangling & engineering (MySQL, Pandas)
-- 💡 Exploring cutting-edge frameworks & libraries (Next.js, Streamlit, HuggingFace, etc.)
+- 🐍 Advanced Python for ML, automation, and APIs
+- ⚡ FastAPI & Flask for robust, scalable backends
+- 📊 Machine Learning pipelines with scikit-learn, TensorFlow, PyTorch
+- 🗃️ Data wrangling: MySQL, Pandas, SQLAlchemy
+- 📈 Interactive dashboards: Streamlit, Plotly, PowerBI
+- 💡 Exploring new frameworks: Next.js, HuggingFace, LangChain, D3.js
 
 ---
 
-## 📂 Featured Projects
+## 🚩 Featured Projects
 
-| Project Name                  | Description                                               | Link   |
-|-------------------------------|----------------------------------------------------------|--------|
-| **Drug Side Effects Analysis**| ML pipeline for drug side effects analysis               | [🔗 GitHub](https://github.com/Rose1509/Drug_Labels_and_SideEffects) |
-| **Oh-Lana's Wears**           | Full-stack e-commerce web app (Java & JSP)               | [🔗 GitHub](https://github.com/Rose1509/Oh-Lanas-Wears)              |
-| **Creative Portfolio**        | Interactive portfolio built with React & Figma           | *Coming soon!* |
-| **AI-powered Data Visualizer** | Automated dashboard using FastAPI & Plotly               | *Coming soon!* |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><b>Drug Side Effects Analysis</b></td>
+    <td>End-to-end ML pipeline for drug data analytics & visualization</td>
+    <td>Python, scikit-learn, Pandas, Streamlit</td>
+    <td><a href="https://github.com/Rose1509/Drug_Labels_and_SideEffects">🔗 GitHub</a></td>
+  </tr>
+  <tr>
+    <td><b>Oh-Lana's Wears</b></td>
+    <td>Full-stack e-commerce platform with custom admin dashboard</td>
+    <td>Java, JSP, MySQL, HTML/CSS</td>
+    <td><a href="https://github.com/Rose1509/Oh-Lanas-Wears">🔗 GitHub</a></td>
+  </tr>
+
+</table>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Project Showcase GIF" width="350"/>
@@ -68,12 +88,24 @@ I'm passionate about coding, innovation, and making technology fun and accessibl
 
 ---
 
-## 💬 Let’s Connect!
+## 🧑‍💻 Community & Impact
 
-- 📧 **Email:** [kcr3307@gmail.com](mailto:kcr3307@gmail.com)
-- 💼 **LinkedIn:** [Rose KC](https://www.linkedin.com/in/rose-kc-0622ba315/)
-- 🖊️ **Portfolio:** *Coming soon!*
+- 📝 **Blog:** [RoseCodes](https://medium.com/@rosekc) | Tutorials & tech musings
+- 🗣️ **Speaker:** Tech meetups & webinars on ML, Python, and career growth
+- 🏅 **Mentor:** Helping beginners launch their tech journeys
+- ✨ **Open-source:** Contributor to AI, web, and data projects
 
+---
+
+## 💬 Connect with Me
+
+- 📧 [kcr3307@gmail.com](mailto:kcr3307@gmail.com)
+- 💼 [LinkedIn: Rose KC](https://www.linkedin.com/in/rose-kc-0622ba315/)
+
+<p align="center">
+  <a href="mailto:kcr3307@gmail.com"><img src="https://img.shields.io/badge/Email-kcr3307@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rose-kc-0622ba315/"><img src="https://img.shields.io/badge/LinkedIn-roseKC-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
@@ -101,8 +133,12 @@ I'm passionate about coding, innovation, and making technology fun and accessibl
 
 ## ✨ My Pledge
 
-> *I strive to build technology that empowers, inspires, and welcomes everyone.  
-> Let’s connect, create, and innovate together!*
+> *I strive to build technology that empowers, inspires, and welcomes everyone.*  
+> *Let's connect, create, and innovate together!*
 
-Thanks for stopping by!  
-🌟 Explore my repos, star a project, or drop a message—let’s build something awesome together! 🚀✨
+---
+
+<p align="center">
+  <b>Thanks for stopping by! 🌟</b><br>
+  <i>Explore my repos, star a project, or drop a message — let’s build something awesome together! 🚀✨</i>
+</p>

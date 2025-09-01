@@ -44,8 +44,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 - **Email:** kcr3307@gmail.com  
 - **LinkedIn:** [Rose KC](https://www.linkedin.com/in/rose-kc-0622ba315/)  
-- **Portfolio:** (Add your portfolio link here)  
-- **Blog:** (Add your blog link here)  
 
 ---
 

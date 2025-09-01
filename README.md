@@ -84,6 +84,7 @@ I'm passionate about coding, innovation, and making technology fun and accessibl
 
 ![Cat Coding GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
+![Profile Visitors](https://komarev.com/ghpvc/?username=Rose1509&label=Profile%20visitors&color=0e75b6&style=flat)
 
 
 Thanks for stopping by!  

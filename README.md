@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Rose!  
-Welcome to my creative hub on GitHub — where technology meets art, curiosity sparks innovation, and collaboration fuels growth.
+# 🇳🇵 Hi there 👋 This is Suman Dhakal
+
+I am an aspiring AI engineer who wishes to solve real-world problems by means of data.
 
 ---
 
@@ -7,32 +8,30 @@ Welcome to my creative hub on GitHub — where technology meets art, curiosity s
 
 - 💻 **Software Engineering Intern | AI Explorer | Design Enthusiast**
 - 🤖 Passionate about **AI**, **Data Science**, and Full-Stack Web Apps
-- 🌱 Currently learning **FastAPI**, **Machine Learning workflows**, and advanced **Python** & **Java**
+- 🌱 Currently learning **Vision Transformer**, **FastAPI**, **Machine Learning workflows**, and advanced **Python** & **Java**
+- 👦 Pronouns: she/her
 - 🎨 I blend code with creativity: Figma designs, digital sketches, and interactive projects
 - 🌍 Advocate for inclusive tech and open-source collaboration
 - 🤝 Open to networking, learning, and building impactful solutions
 
 ---
 
-## 🧰 Tech Toolbox
+## 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
@@ -42,64 +41,38 @@ Welcome to my creative hub on GitHub — where technology meets art, curiosity s
 - ⚡ FastAPI & Flask for robust, scalable backends
 - 📊 Machine Learning pipelines with scikit-learn, TensorFlow, PyTorch
 - 🗃️ Data wrangling: MySQL, Pandas, SQLAlchemy
-- 📈 Interactive dashboards: Streamlit, Plotly
-- 💡 Exploring new frameworks: Next.js, HuggingFace, LangChain, D3.js
 
 ---
 
-## 🚩 Featured Projects
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td><b>Drug Side Effects Analysis</b></td>
-    <td>End-to-end ML pipeline for drug data analytics & visualization</td>
-    <td>Python, scikit-learn, Pandas, Streamlit</td>
-    <td><a href="https://github.com/Rose1509/Drug_Labels_and_SideEffects">🔗 GitHub</a></td>
-  </tr>
-  <tr>
-    <td><b>Oh-Lana's Wears</b></td>
-    <td>Full-stack e-commerce platform with custom admin dashboard</td>
-    <td>Java, JSP, MySQL, HTML/CSS</td>
-    <td><a href="https://github.com/Rose1509/Oh-Lanas-Wears">🔗 GitHub</a></td>
-  </tr>
-</table>
+### 🚩 Featured Projects
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Project Showcase GIF" width="350"/>
-</p>
+| Project                   | Description                                           | Tech Stack                      | Link                                                                |
+|---------------------------|-------------------------------------------------------|----------------------------------|---------------------------------------------------------------------|
+| **Drug Side Effects Analysis** | End-to-end ML pipeline for drug data analytics & visualization | Python, scikit-learn, Pandas, Streamlit | [🔗 GitHub](https://github.com/Rose1509/Drug_Labels_and_SideEffects) |
+| **Oh-Lana's Wears**           | Full-stack e-commerce platform with custom admin dashboard        | Java, JSP, MySQL, HTML/CSS      | [🔗 GitHub](https://github.com/Rose1509/Oh-Lanas-Wears)              |
 
 ---
 
 ## 🏆 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rose1509&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rose1509&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Rose1509&theme=radical" alt="Profile Trophy"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rose1509&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rose1509&layout=compact&theme=radical)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Rose1509&theme=radical)
 
 ---
 
 ## 👩‍💻 Community & Impact
 
 - 🗣️ **Speaker:** Tech meetups & webinars (ML, Python, career growth)
-- 🏅 **Mentor:** Helping beginners launch their tech journeys
 - ✨ **Open-source:** Contributor to AI, web, and data projects
 
 ---
 
 ## 💬 Connect with Me
 
-<p align="center">
-  <a href="mailto:kcr3307@gmail.com"><img src="https://img.shields.io/badge/Email-kcr3307@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rose-kc-0622ba315/"><img src="https://img.shields.io/badge/LinkedIn-roseKC-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+[![Email](https://img.shields.io/badge/Email-kcr3307@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kcr3307@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-roseKC-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rose-kc-0622ba315/)
 
 ---
 
@@ -109,19 +82,15 @@ Welcome to my creative hub on GitHub — where technology meets art, curiosity s
 - ☕ Fueled by coffee & curiosity
 - 🧩 Loves puzzles, novels, and learning new things
 - 🚴‍♀️ Cycling & nature walks recharge my mind
-- 😸 Cat lover & meme enthusiast
+- 😸 Dog lover & meme enthusiast
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat Coding GIF" width="300"/>
-</p>
+![Cat Coding GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ---
 
 ## 👀 Visitors
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rose1509&label=Profile%20visitors&color=0e75b6&style=flat"/>
-</p>
+![Profile visitors](https://komarev.com/ghpvc/?username=Rose1509&label=Profile%20visitors&color=0e75b6&style=flat)
 
 ---
 
@@ -132,7 +101,5 @@ Welcome to my creative hub on GitHub — where technology meets art, curiosity s
 
 ---
 
-<p align="center">
-  <b>Thanks for stopping by! 🌟</b><br>
-  <i>Explore my repos, star a project, or drop a message — let’s build something awesome together! 🚀✨</i>
-</p>
+**Thanks for stopping by! 🌟**  
+*Explore my repos, star a project, or drop a message — let’s build something awesome together! 🚀✨*

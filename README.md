@@ -90,4 +90,3 @@ I'm passionate about coding, innovation, and making technology fun and accessibl
 Thanks for stopping by!  
 Explore my repos, star a project, or drop a message—let’s build something awesome together! 🚀✨
 
-![Thank You GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)

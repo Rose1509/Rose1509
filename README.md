@@ -4,9 +4,6 @@ I am an aspiring AI engineer who wishes to solve real-world problems by means of
 
 ---
 
-<p align="center">
-  <img src="assets/hello_world.gif" alt="HELLO WORLD" width="390"/>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rose-kc-0622ba315/">

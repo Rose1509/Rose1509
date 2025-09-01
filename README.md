@@ -33,8 +33,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
   [GitHub Repo](https://github.com/Rose1509/Drug_Labels_and_SideEffects)
 - **Oh-Lana's Wears** – Full-stack web app with Java & JSP  
   [GitHub Repo](https://github.com/Rose1509/Oh-Lanas-Wears)
-- **FastAPI Web Scraper** – Multi-threaded scraper with pause/resume & Docker  
-  [GitHub Repo](https://github.com/Rose1509/FastAPI-Web-Scraper)
+
 
 ## 📈 GitHub Stats
 

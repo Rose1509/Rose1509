@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rose1509/<repo-name>/main/assets/hello_world.gif" width="400"/>
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="Hello World GIF" width="400"/>
 </p>
 
 #  Hi there 👋 This is Rose Khatiwada
@@ -86,7 +86,6 @@ I am an aspiring AI engineer who wishes to solve real-world problems by means of
 - ✨ **Open-source:** Contributor to AI, web, and data projects
 
 ---
-
 
 ## 🎉 Fun Facts & Quirks
 

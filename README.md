@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hello_world.gif" alt="HELLO WORLD GIF" width="400"/>
+  <img src="https://raw.githubusercontent.com/Rose1509/<repo-name>/main/assets/hello_world.gif" width="400"/>
 </p>
 
 #  Hi there 👋 This is Rose Khatiwada
@@ -87,12 +87,6 @@ I am an aspiring AI engineer who wishes to solve real-world problems by means of
 
 ---
 
-## 💬 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-kcr3307@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kcr3307@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-roseKC-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rose-kc-0622ba315/)
-
----
 
 ## 🎉 Fun Facts & Quirks
 

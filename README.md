@@ -1,39 +1,21 @@
-from PIL import Image, ImageDraw, ImageFont
-import os
+<p align="center">
+  <img src="assets/hello_world.gif" alt="HELLO WORLD" width="390"/>
+</p>
 
-# Settings
-width, height = 320, 100
-frames = []
-font_path = None
+<p align="center">
+  <a href="https://www.linkedin.com/in/rose-kc-0622ba315/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kcr3307@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-# Try to load a default TTF font (fallback to load_default)
-try:
-    font_path = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"  # Common on Linux
-    font = ImageFont.truetype(font_path, 36)
-except Exception:
-    font = ImageFont.load_default()
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rose1509&label=Profile%20views&color=7bbf17&style=flat" alt="Profile views"/>
+</p>
 
-# Create frames with animated text reveal
-text = "Hello World!"
-for i in range(1, len(text) + 1):
-    img = Image.new("RGB", (width, height), color="white")
-    draw = ImageDraw.Draw(img)
-    display_text = text[:i]
-    w, h = draw.textsize(display_text, font=font)
-    draw.text(((width - w) // 2, (height - h) // 2), display_text, font=font, fill="black")
-    frames.append(img)
-
-# Save as GIF
-os.makedirs("assets", exist_ok=True)
-gif_path = "assets/hello_world.gif"
-frames[0].save(
-    gif_path,
-    save_all=True,
-    append_images=frames[1:],
-    duration=180,
-    loop=0
-)
-print(f"Saved GIF to {gif_path}")
+---
 
 ## 👀 Visitors
 

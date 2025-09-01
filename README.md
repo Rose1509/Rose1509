@@ -2,12 +2,6 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" alt="Hello World GIF" width="400"/>
 </p>
 
-#  Hi there 👋 This is Rose Khatiwada
-
-I am an aspiring AI engineer who wishes to solve real-world problems by means of data.
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/rose-kc-0622ba315/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -20,6 +14,13 @@ I am an aspiring AI engineer who wishes to solve real-world problems by means of
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rose1509&label=Profile%20views&color=7bbf17&style=flat" alt="Profile views"/>
 </p>
+
+---
+
+#  Hi there 👋 This is Rose Khatiwada
+
+I am an aspiring AI engineer who wishes to solve real-world problems by means of data.
+
 
 ---
 

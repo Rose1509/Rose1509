@@ -4,7 +4,6 @@
 Welcome to my creative corner on GitHub!  
 I'm passionate about coding, innovation, and making technology fun and accessible for everyone.
 
----
 
 ## 🚀 About Me
 
@@ -14,9 +13,8 @@ I'm passionate about coding, innovation, and making technology fun and accessibl
 - 🎨 I mix code with creativity—designing in Figma, sketching, and building projects with flair!
 - 🤝 Always open to new connections, collaborations, and open-source adventures
 
-![Coding GIF](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
 
----
+
 
 ## 🧰 My Tech Toolbox
 
@@ -33,7 +31,7 @@ I'm passionate about coding, innovation, and making technology fun and accessibl
 
 </div>
 
----
+
 
 ## 🌱 Currently Growing
 
@@ -43,7 +41,7 @@ I'm passionate about coding, innovation, and making technology fun and accessibl
 - 🗃️ Data wrangling with MySQL
 - 💡 Exploring new frameworks & libraries
 
----
+
 
 ## 📂 Featured Projects
 
@@ -54,7 +52,7 @@ I'm passionate about coding, innovation, and making technology fun and accessibl
 
 ![Project Showcase GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
----
+
 
 ## 🏆 GitHub Stats
 

@@ -29,6 +29,7 @@ I am an aspiring AI engineer who wishes to solve real-world problems by means of
 ## 🚀 About Me
 
 - 💻 **Software Engineering Intern | AI Explorer | Design Enthusiast**
+- 🔭 Currently working on ML projects
 - 🤖 Passionate about **AI**, **Data Science**, and Full-Stack Web Apps
 - 🌱 Currently learning **Vision Transformer**, **FastAPI**, **Machine Learning workflows**, and advanced **Python** & **Java**
 - 👦 Pronouns: she/her
@@ -52,7 +53,6 @@ I am an aspiring AI engineer who wishes to solve real-world problems by means of
 ![Jupyter](https://img.shields.io/badge/Jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
